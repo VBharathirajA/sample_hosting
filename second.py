@@ -1,7 +1,7 @@
 print("second file:2")
-class Hello:
+class(hello):
     def __init__(self):
         print("hello from second file")
 
-obj = Hello()
- 
+obj = hello()
+print(obj)  
