@@ -1,4 +1,1 @@
-print("hieelo")
-print("Good morning")
-print("hi")
-print ("hii")
+print("This is the jenkins poll SCM")
